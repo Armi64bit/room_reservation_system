@@ -1,0 +1,31 @@
+id,room_id,event_name,organizer,date,start_time,end_time
+1,1,Team Meeting,John Doe,2026-03-01,09:00,10:00
+2,2,Project Kickoff,Jane Smith,2026-03-02,10:00,11:30
+3,3,Client Presentation,Alice Brown,2026-03-03,14:00,15:30
+4,4,Weekly Sync,Mark Johnson,2026-03-04,08:30,09:30
+5,5,Workshop,Emily Davis,2026-03-05,13:00,15:00
+6,6,Brainstorming,Michael Lee,2026-03-06,09:00,10:30
+7,7,Design Review,Sarah Kim,2026-03-07,11:00,12:00
+8,8,Product Update,David Wilson,2026-03-08,14:30,15:30
+9,9,Sprint Planning,Linda Martinez,2026-03-09,10:00,11:00
+10,10,Team Retrospective,Robert Clark,2026-03-10,15:00,16:00
+11,11,Client Call,Patricia Lewis,2026-03-11,09:30,10:30
+12,12,Quarterly Review,James Walker,2026-03-12,13:00,14:30
+13,13,Workshop,Barbara Hall,2026-03-13,10:00,12:00
+14,14,Weekly Sync,William Allen,2026-03-14,08:30,09:30
+15,15,Training Session,Elizabeth Young,2026-03-15,11:00,12:30
+16,16,Project Planning,Christopher Hernandez,2026-03-16,09:00,10:30
+17,17,Client Presentation,Karen King,2026-03-17,14:00,15:00
+18,18,Team Meeting,Steven Wright,2026-03-18,08:30,09:30
+19,19,Design Workshop,Sandra Scott,2026-03-19,13:00,15:00
+20,20,Strategy Session,Kevin Green,2026-03-20,10:00,11:30
+21,1,Code Review,Anna Baker,2026-03-21,11:00,12:00
+22,2,Product Demo,Joshua Adams,2026-03-22,14:00,15:00
+23,3,Team Meeting,Olivia Perez,2026-03-23,09:00,10:00
+24,4,Workshop,Daniel Roberts,2026-03-24,10:00,12:00
+25,5,Project Kickoff,Emily Davis,2026-03-25,13:00,14:30
+26,6,Client Call,Matthew Turner,2026-03-26,08:30,09:30
+27,7,Brainstorming,Sophia Phillips,2026-03-27,11:00,12:00
+28,8,Weekly Sync,Liam Campbell,2026-03-28,10:00,11:00
+29,9,Quarterly Review,Isabella Parker,2026-03-29,14:00,15:30
+30,10,Training Session,Noah Evans,2026-03-30,09:00,10:30
